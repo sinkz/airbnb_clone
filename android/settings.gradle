@@ -1,0 +1,3 @@
+rootProject.name = 'airbnb_clone'
+
+include ':app'
